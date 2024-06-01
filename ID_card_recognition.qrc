@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ID_card_recognition">
+        <file>number.png</file>
+    </qresource>
+</RCC>
